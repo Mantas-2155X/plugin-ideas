@@ -3,11 +3,6 @@
 A list of stuff I may or may not do.   
 Might accept some plugin ideas from Issues/PRs
 
-### [HLightControl](https://github.com/Mantas-2155X/HLightControl):
-* Set your own defaults **(NEEDS TEST)**
-  * Priority -> High
-  * Info -> set in plugin settings
-  
 ### [MakerSearch](https://github.com/Mantas-2155X/MakerSearch):
 * Koikatsu port **(NEEDS TEST)**
   * Priority -> High
