@@ -3,8 +3,8 @@
 A list of stuff I may or may not do.   
 Might accept some plugin ideas from Issues/PRs
 
-If there is no repo at the name, it's probably not yet being done.
-If there is **(NEEDS TEST)** near a feature, it's probably finished but not yet released.
+If there is no repo at the name, it's probably not yet being done.  
+If there is **(NEEDS TEST)** near a feature, it's probably finished but not yet released.  
 
 ### [MakerSearch](https://github.com/Mantas-2155X/MakerSearch):
 * Koikatsu port **(NEEDS TEST)**
