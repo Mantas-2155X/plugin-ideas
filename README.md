@@ -9,7 +9,9 @@ If there is **(NEEDS TEST)** near a feature, it's probably finished but not yet 
 ### [MakerSearch](https://github.com/Mantas-2155X/MakerSearch):
 * Koikatsu port **(NEEDS TEST)**
   * Priority -> High
-* Support for other categories like face, body, etc..
+* Support for all face categories
+  * Priority -> Medium
+* Support for all body categories **(NEEDS TEST)**
   * Priority -> Medium
 * Emotion Creators port **(NEEDS TEST)**
   * Priority -> Low
