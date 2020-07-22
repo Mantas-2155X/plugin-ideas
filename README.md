@@ -3,12 +3,15 @@
 A list of stuff I may or may not do.   
 Might accept some plugin ideas from Issues/PRs
 
+If there is no repo at the name, it's probably not yet being done.
+If there is **(NEEDS TEST)** near a feature, it's probably finished but not yet released.
+
 ### [MakerSearch](https://github.com/Mantas-2155X/MakerSearch):
 * Koikatsu port **(NEEDS TEST)**
   * Priority -> High
 * Support for other categories like face, body, etc..
   * Priority -> Medium
-* Emotion Creators port
+* Emotion Creators port **(NEEDS TEST)**
   * Priority -> Low
 * PlayHome port
   * Priority -> Low
@@ -22,6 +25,8 @@ Might accept some plugin ideas from Issues/PRs
 * Copy accessories location
   * Priority -> Low
   * Info -> copy position, angles, scale to other acc. Option to "mirror reverse"
+* Emotion Creators port **(NEEDS TEST)**
+  * Priority -> Low
 
 ### [HS2_MoreGroups](https://github.com/Mantas-2155X/HS2_MoreGroups):
 * Change groups limit from 5 **(NEEDS TEST)**
