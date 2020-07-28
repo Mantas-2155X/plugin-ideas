@@ -7,16 +7,14 @@ If there is no repo at the name, it's probably not yet being done.
 If there is **(NEEDS TEST)** near a feature, it's probably finished but not yet released.  
 
 ### [MakerSearch](https://github.com/Mantas-2155X/MakerSearch):
-* Koikatsu port **(NEEDS TEST)**
-  * Priority -> High
 * Support for all face categories
   * Priority -> Medium
-* Support for all body categories **(NEEDS TEST)**
-  * Priority -> Medium
-* Emotion Creators port **(NEEDS TEST)**
-  * Priority -> Low
 * PlayHome port
   * Priority -> Low
+  
+**issue: (GaZeR#3158)** I noticed the search doesn't work with bra and socks. the rest seem OK though. yes I did update today to 1.1.1 too and the problem is still there.
+it worked once in bra, but after switching to another and back, it stops working until I reboot the game
+and then breaks again after searching in bra again
 
 ### [MakerAdditions](https://github.com/Mantas-2155X/MakerAdditions):
 * Lock camera light
