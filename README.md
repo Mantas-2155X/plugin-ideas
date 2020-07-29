@@ -6,10 +6,17 @@ Might accept some plugin ideas from Issues/PRs
 If there is no repo at the name, it's probably not yet being done.  
 If there is **(NEEDS TEST)** near a feature, it's probably finished but not yet released.  
 
+### [BetterHScenes](https://github.com/Mantas-2155X/BetterHScenes)
+**[HS2] issue: (cL0z3r#6436)** i notice a little issue in "Character Dragger UI".  When you adjust the char and then try to move them around the map, the adjust is set to def, but sliders stay on adjust position. So u need a save the pos and always reload after moving them.
+
 ### [MakerSearch](https://github.com/Mantas-2155X/MakerSearch):
 * Support for all face categories
   * Priority -> Medium
 * PlayHome port
+  * Priority -> Low
+* Persist search text when switching accs
+  * Priority -> Low
+* Automatically scroll to selected item after clearing search
   * Priority -> Low
   
 **issue: (GaZeR#3158)** I noticed the search doesn't work with bra and socks. the rest seem OK though. yes I did update today to 1.1.1 too and the problem is still there.
