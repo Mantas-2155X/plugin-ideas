@@ -19,7 +19,7 @@ If there is **(NEEDS TEST)** near a feature, it's probably finished but not yet 
 * Automatically scroll to selected item after clearing search
   * Priority -> Low
   
-**issue: (GaZeR#3158)** I noticed the search doesn't work with bra and socks. the rest seem OK though. yes I did update today to 1.1.1 too and the problem is still there.
+**[KK] issue: (GaZeR#3158)** I noticed the search doesn't work with bra and socks. the rest seem OK though. yes I did update today to 1.1.1 too and the problem is still there.
 it worked once in bra, but after switching to another and back, it stops working until I reboot the game
 and then breaks again after searching in bra again
 
@@ -41,6 +41,7 @@ and then breaks again after searching in bra again
   * Info -> set in plugin settings, add scroller to UIs
 * Change girls in group limit **(NEEDS TEST)**
   * Priority -> Medium
+  * Info -> set in plugin settings
 
 ### StudioLightControl:
 * Lock camera light
