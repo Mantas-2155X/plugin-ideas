@@ -39,7 +39,7 @@ and then breaks again after searching in bra again
 * Change groups limit from 5 **(NEEDS TEST)**
   * Priority -> High
   * Info -> set in plugin settings, add scroller to UIs
-* Change girls in group limit
+* Change girls in group limit **(NEEDS TEST)**
   * Priority -> Medium
 
 ### StudioLightControl:
