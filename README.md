@@ -35,7 +35,7 @@ and then breaks again after searching in bra again
 * Emotion Creators port **(NEEDS TEST)**
   * Priority -> Low
 
-### [HS2_MoreGroups](https://github.com/Mantas-2155X/HS2_MoreGroups):
+### [HS2_ExtraGroups](https://github.com/Mantas-2155X/HS2_ExtraGroups):
 * Change groups limit from 5 **(NEEDS TEST)**
   * Priority -> High
   * Info -> set in plugin settings, add scroller to UIs
