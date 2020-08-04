@@ -14,7 +14,9 @@ If there is **(NEEDS TEST)** near a feature, it's probably finished but not yet 
   * Priority -> Medium
 * PlayHome port
   * Priority -> Low
-* Persist search text when switching accs
+* Reset search button
+  * Priority -> Low
+* Persist search when switching category
   * Priority -> Low
 * Automatically scroll to selected item after clearing search
   * Priority -> Low
