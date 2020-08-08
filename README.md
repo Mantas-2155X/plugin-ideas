@@ -21,9 +21,10 @@ If there is **(NEEDS TEST)** near a feature, it's probably finished but not yet 
 * Automatically scroll to selected item after clearing search
   * Priority -> Low
   
-~~**[KK] issue: (GaZeR#3158)** I noticed the search doesn't work with bra and socks. the rest seem OK though. yes I did update today to 1.1.1 too and the problem is still there.
+**[KK] issue: (GaZeR#3158)** I noticed the search doesn't work with bra and socks. the rest seem OK though. yes I did update today to 1.1.1 too and the problem is still there.
 it worked once in bra, but after switching to another and back, it stops working until I reboot the game
-and then breaks again after searching in bra again~~ **(CANT REPRODUCE)**
+and then breaks again after searching in bra again
+**Caused by:** "Deactivate hidden tabs in maker" [Maker Optimizations 14.0]
 
 ### [MakerAdditions](https://github.com/Mantas-2155X/MakerAdditions):
 * Lock camera light
@@ -35,6 +36,8 @@ and then breaks again after searching in bra again~~ **(CANT REPRODUCE)**
   * Priority -> Low
   * Info -> copy position, angles, scale to other acc. Option to "mirror reverse"
 * Emotion Creators port **(NEEDS TEST)**
+  * Priority -> Low
+* Unlock accessory position limits (-100, 100)
   * Priority -> Low
 
 ### [HS2_ExtraGroups](https://github.com/Mantas-2155X/HS2_ExtraGroups):
