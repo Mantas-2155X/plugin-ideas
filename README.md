@@ -40,14 +40,6 @@ and then breaks again after searching in bra again
 * Unlock accessory position limits (-100, 100)
   * Priority -> Low
 
-### [HS2_ExtraGroups](https://github.com/Mantas-2155X/HS2_ExtraGroups):
-* Change groups limit from 5 **(NEEDS TEST)**
-  * Priority -> High
-  * Info -> set in plugin settings, add scroller to UIs
-* Change girls in group limit **(NEEDS TEST)**
-  * Priority -> Medium
-  * Info -> set in plugin settings
-
 ### StudioLightControl:
 * Lock camera light
 
