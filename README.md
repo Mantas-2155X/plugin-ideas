@@ -37,7 +37,7 @@ and then breaks again after searching in bra again
   * Info -> copy position, angles, scale to other acc. Option to "mirror reverse"
 * Emotion Creators port **(NEEDS TEST)**
   * Priority -> Low
-* Unlock accessory position limits (-100, 100)
+* Unlock accessory position limits (-100, 100) **(NEEDS TEST)**
   * Priority -> Low
 
 ### StudioLightControl:
