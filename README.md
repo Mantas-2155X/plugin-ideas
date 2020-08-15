@@ -27,7 +27,11 @@ and then breaks again after searching in bra again
 **Caused by:** "Deactivate hidden tabs in maker" [Maker Optimizations 14.0]
 
 ### [MakerAdditions](https://github.com/Mantas-2155X/MakerAdditions):
-* Lock camera light
+* Lock camera light **(NEEDS TEST)**
+  * Priority -> Medium
+* Toggle blinking [AI, HS2] **(NEEDS TEST)**
+  * Priority -> Medium
+* Toggle Backlight **(NEEDS TEST)**
   * Priority -> Medium
 * Random selection
   * Priority -> Low
