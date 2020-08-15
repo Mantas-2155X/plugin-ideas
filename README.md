@@ -6,6 +6,10 @@ Might accept some plugin ideas from Issues/PRs
 If there is no repo at the name, it's probably not yet being done.  
 If there is **(NEEDS TEST)** near a feature, it's probably finished but not yet released.  
 
+### [EC_ExtraCharacters](https://github.com/Mantas-2155X/EC_ExtraCharacters)
+* Somehow add support for compatibility without plugin
+  * Priority -> High
+
 ### [BetterHScenes](https://github.com/Mantas-2155X/BetterHScenes)
 **[HS2] issue: (cL0z3r#6436)** i notice a little issue in "Character Dragger UI".  When you adjust the char and then try to move them around the map, the adjust is set to def, but sliders stay on adjust position. So u need a save the pos and always reload after moving them.
 
@@ -31,7 +35,7 @@ and then breaks again after searching in bra again
   * Priority -> Medium
 * Toggle blinking [AI, HS2] **(NEEDS TEST)**
   * Priority -> Medium
-* Toggle Backlight **(NEEDS TEST)**
+* Toggle Backlight [AI, HS2] **(NEEDS TEST)**
   * Priority -> Medium
 * Random selection
   * Priority -> Low
