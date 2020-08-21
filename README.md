@@ -20,7 +20,7 @@ If there is **(NEEDS TEST)** near a feature, it's probably finished but not yet 
 ### [MakerSearch](https://github.com/Mantas-2155X/MakerSearch):
 * Support for all face categories **(NEEDS TEST)**
   * Priority -> Medium
-* PlayHome port
+* PlayHome port **(NEEDS TEST)**
   * Priority -> Low
 * Reset search button
   * Priority -> Low
