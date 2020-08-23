@@ -1,4 +1,4 @@
-# plugin-ideas
+# plugin-suggestions-bugs
 
 A list of stuff I may or may not do.   
 Might accept some plugin ideas from Issues/PRs
