@@ -33,7 +33,7 @@ If there is **(NEEDS TEST)** near a feature, it's probably finished but not yet 
 
 **[PH?] issue: (RM50#0641)** Can't search in Japanese
 
-**[KK] issue: (GaZeR#3158)** I noticed the search doesn't work with bra and socks. the rest seem OK though. yes I did update today to 1.1.1 too and the problem is still there.
+**(NEEDS TEST)** **[KK] issue: (GaZeR#3158)** I noticed the search doesn't work with bra and socks. the rest seem OK though. yes I did update today to 1.1.1 too and the problem is still there.
 it worked once in bra, but after switching to another and back, it stops working until I reboot the game
 and then breaks again after searching in bra again  
 **Caused by:** "Deactivate hidden tabs in maker" [Maker Optimizations 14.0]
