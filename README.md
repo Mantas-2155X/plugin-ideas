@@ -24,7 +24,7 @@ If there is **(NEEDS TEST)** near a feature, it's probably finished but not yet 
 ### [MakerSearch](https://github.com/Mantas-2155X/MakerSearch):
 * Reset search button **(NEEDS TEST)**
   * Priority -> Low
-* Persist search text when switching category
+* Persist search text when switching category **(NEEDS TEST)**
   * Priority -> Low
 * Automatically scroll to selected item after clearing search
   * Priority -> Low
