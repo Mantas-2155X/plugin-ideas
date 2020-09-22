@@ -6,6 +6,11 @@ Might accept some plugin ideas from Issues/PRs
 If there is no repo at the name, it's probably not yet being done.  
 If there is **(NEEDS TEST)** near a feature, it's probably finished but not yet released.  
 
+### [HCharaSwitcher](https://github.com/Mantas-2155X/HCharaSwitcher)
+* Button or hotkey to swap the two girls selected before the scene (keeping their current clothing, if it was changed mid-scene), rather than having to manually replace each girl through the menu.
+  * Priority -> Medium
+  * Issue -> https://github.com/Mantas-2155X/HCharaSwitcher/issues/2
+
 ### [LightprobesReset](https://github.com/Mantas-2155X/LightprobesReset)
 * Reset skybox (RenderSettings.skybox)
   * Priority -> Medium
