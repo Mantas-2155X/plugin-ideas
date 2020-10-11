@@ -19,10 +19,6 @@ If there is **(NEEDS TEST)** near a feature, it's probably finished but not yet 
 * Reset skybox (RenderSettings.skybox)
   * Priority -> Medium
 
-### [HLightControl](https://github.com/Mantas-2155X/HLightControl)
-* [HS2] Control default of already existing Auxiliary light
-  * Priority -> Medium
-
 ### [EC_ExtraCharacters](https://github.com/Mantas-2155X/EC_ExtraCharacters)
 * Somehow add support for compatibility without plugin
   * Priority -> High
