@@ -6,6 +6,10 @@ Might accept some plugin ideas from Issues/PRs
 If there is no repo at the name, it's probably not yet being done.  
 If there is **(NEEDS TEST)** near a feature, it's probably finished but not yet released.  
 
+### [UnlockPlayerHClothes](https://github.com/Mantas-2155X/UnlockPlayerHClothes)
+* Separate keybinds to change separate cloth item state
+  * Priority -> Medium
+
 ### [AI_BetterFreeRoam](https://github.com/Mantas-2155X/AI_BetterFreeRoam)
 * Undress when going to sleep, dress back after waking up
   * Priority -> Medium
