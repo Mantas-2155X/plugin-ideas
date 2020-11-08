@@ -6,6 +6,10 @@ Might accept some plugin ideas from Issues/PRs
 If there is no repo at the name, it's probably not yet being done.  
 If there is **(NEEDS TEST)** near a feature, it's probably finished but not yet released.  
 
+### [PC_ScrollableUI](https://github.com/Mantas-2155X/PC_ScrollableUI)
+* Scrollable map selection UIs in both SelectScene and HScene **(NEEDS TEST)**
+  * Priority -> Medium
+
 ### [HS2_RandomHPicker](https://github.com/Mantas-2155X/HS2_RandomHPicker)
 * Buttons to pick random character and random map for HScene lobby picker **(NEEDS TEST)**
   * Priority -> Medium
