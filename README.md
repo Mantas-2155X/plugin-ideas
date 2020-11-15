@@ -9,7 +9,7 @@ If there is **(NEEDS TEST)** near a feature, it's probably finished but not yet 
 ### [StudioAccessoryNames](https://github.com/Mantas-2155X/StudioAccessoryNames)
 * Give accessories names in studio **(NEEDS TEST)**
   * Priority -> High
-* Port to PH
+* Port to PH **(NEEDS TEST)**
   * Priority -> Low
 * Port to EC? (if needed)
   * Priority -> Low
