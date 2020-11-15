@@ -21,6 +21,8 @@ If there is **(NEEDS TEST)** near a feature, it's probably finished but not yet 
 ### [HS2_RandomHPicker](https://github.com/Mantas-2155X/HS2_RandomHPicker)
 * Buttons to pick random character and random map for HScene lobby picker **(NEEDS TEST)**
   * Priority -> Medium
+* HS2DX stuff too
+  * Priority -> Medium
   
 ### [UnlockPlayerHClothes](https://github.com/Mantas-2155X/UnlockPlayerHClothes)
 * Separate keybinds to change separate cloth item state
