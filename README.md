@@ -7,7 +7,7 @@ If there is no repo at the name, it's probably not yet being done.
 If there is **(NEEDS TEST)** near a feature, it's probably finished but not yet released.  
 
 ### [StudioAccessoryNames](https://github.com/Mantas-2155X/StudioAccessoryNames)
-* Play nice with TL, either 2 textboxes or fetch TL string and append number to start **(NEEDS TEST)**
+* Play nice with TL, either 2 textboxes or fetch TL string and append number to start
   * Priority -> Medium
 * Port to EC? (if needed)
   * Priority -> Low
