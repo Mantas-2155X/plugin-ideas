@@ -41,7 +41,9 @@ If there is **(NEEDS TEST)** near a feature, it's probably finished but not yet 
 
 ### [EC_ExtraCharacters](https://github.com/Mantas-2155X/EC_ExtraCharacters)
 * Somehow add support for compatibility without plugin
-  * Priority -> High
+  * Priority -> Low
+* Fix siru not appearing for extra characters
+  * Priority -> Medium
 
 ### [BetterHScenes](https://github.com/Mantas-2155X/BetterHScenes)
 **[HS2] issue: (cL0z3r#6436)** i notice a little issue in "Character Dragger UI".  When you adjust the char and then try to move them around the map, the adjust is set to def, but sliders stay on adjust position. So u need a save the pos and always reload after moving them.
