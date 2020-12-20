@@ -42,7 +42,7 @@ If there is **(NEEDS TEST)** near a feature, it's probably finished but not yet 
 ### [EC_ExtraCharacters](https://github.com/Mantas-2155X/EC_ExtraCharacters)
 * Somehow add support for compatibility without plugin
   * Priority -> Low
-* Fix siru not appearing for extra characters
+* Fix siru not appearing for extra characters **(NEEDS TEST)**
   * Priority -> Medium
 
 ### [BetterHScenes](https://github.com/Mantas-2155X/BetterHScenes)
