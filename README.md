@@ -49,7 +49,7 @@ If there is **(NEEDS TEST)** near a feature, it's probably finished but not yet 
 ### [MakerAdditions](https://github.com/Mantas-2155X/MakerAdditions):
 * Random selection
   * Priority -> Low
-  * Info -> add random button to all categories
+  * Info -> add random button to all categories, fusion
 * Copy accessories location
   * Priority -> Low
   * Info -> copy position, angles, scale to other acc. Option to "mirror reverse"
