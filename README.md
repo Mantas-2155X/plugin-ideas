@@ -6,23 +6,27 @@ Might accept some plugin ideas from Issues/PRs
 If there is no repo at the name, it's probably not yet being done.  
 If there is **(NEEDS TEST)** near a feature, it's probably finished but not yet released.  
 
+### [HLightControl](https://github.com/Mantas-2155X/HLightControl)
+* EC Support
+  * Priority -> Medium
+
 ### [StudioAccessoryNames](https://github.com/Mantas-2155X/StudioAccessoryNames)
 * ~~Play nice with TL, either 2 textboxes or fetch TL string and append number to start~~ Change unused slot names to vanilla ones, sro instead of slot etc
-  * Priority -> Medium
+  * Priority -> Low
 * Port to EC? (if needed)
   * Priority -> Low
 
 ### [PC_ScrollableUI](https://github.com/Mantas-2155X/PC_ScrollableUI)
 * Overflow the ui slightly so people can realise it's scrollable
-  * Priority -> Medium
+  * Priority -> Low
 
 ### [UnlockPlayerHClothes](https://github.com/Mantas-2155X/UnlockPlayerHClothes)
 * Separate keybinds to change separate cloth item state
-  * Priority -> Medium
+  * Priority -> Low
 
 ### [AI_BetterFreeRoam](https://github.com/Mantas-2155X/AI_BetterFreeRoam)
 * Undress when going to sleep, dress back after waking up
-  * Priority -> Medium
+  * Priority -> Low
 
 ### [HCharaSwitcher](https://github.com/Mantas-2155X/HCharaSwitcher)
 * Keeping current clothing, if it was changed mid-scene
@@ -31,13 +35,11 @@ If there is **(NEEDS TEST)** near a feature, it's probably finished but not yet 
 
 ### [LightprobesReset](https://github.com/Mantas-2155X/LightprobesReset)
 * Reset skybox (RenderSettings.skybox)
-  * Priority -> Medium
+  * Priority -> Low
 
 ### [EC_ExtraCharacters](https://github.com/Mantas-2155X/EC_ExtraCharacters)
 * Somehow add support for compatibility without plugin
-  * Priority -> Low
-* Fix siru not appearing for extra characters **(NEEDS TEST)**
-  * Priority -> Medium
+  * Priority -> Very Low
 
 ### [BetterHScenes](https://github.com/Mantas-2155X/BetterHScenes)
 **[HS2] issue: (cL0z3r#6436)** i notice a little issue in "Character Dragger UI".  When you adjust the char and then try to move them around the map, the adjust is set to def, but sliders stay on adjust position. So u need a save the pos and always reload after moving them.
